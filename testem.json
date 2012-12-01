@@ -1,0 +1,11 @@
+{
+    "src_files": [
+        "*.js"
+    ],
+    "launchers": {
+        "node": {
+            "command": "node jserrors.js"
+        }
+    },
+    "launch_in_dev": ["node"]
+}
